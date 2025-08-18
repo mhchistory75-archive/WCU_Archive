@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Western Carolina University - University History Project 
+title: Western Carolina University <br>University History Project </br>
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: An inventory of items and objects at WCU
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This project began as an way to locate and inventory items and objects in anticipation of WCU's 150th anniversary in 1939. This represents only a small section of the possible inventory on campus."
+description: "This project began as an way to locate and inventory items and objects in anticipation of WCU's 150th anniversary in 2039. Not every department, program or event is represented in this collection, however, this is a start in capturing the various collecting entities in and around the WCU campus."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Amy Archambault
+author: Amy Archambault and Remy Cox
 
 ##########
 # COLLECTION SETTINGS
