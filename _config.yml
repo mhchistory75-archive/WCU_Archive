@@ -27,7 +27,7 @@ tagline: An inventory of items and objects at WCU
 # this description might appear in search result lists, keep around 160 characters max
 description: "This project began as a way to locate and inventory items and objects in anticipation of WCU's 150th anniversary in 2039. Not every department, program or event is represented in this collection, however, this is a start in capturing the various collecting entities in and around the WCU campus."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Amy Archambault, University History Archival Technican <br> and Remy Cox, Graduate Intern, WCU History Department (2025)
+author: "Amy Archambault, University History Archival Technican <br> and Remy Cox, Graduate Intern, WCU History Department (2025)"
 
 ##########
 # COLLECTION SETTINGS
@@ -41,7 +41,7 @@ metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtQyYj_ljJy_G-_VdLofF
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "Mountain Heritage Center and Special and Digital Collections - Hunter Library"
-organization-link: https://www.wcu.edu/engage/mountain-heritage-center/index.aspx and https://www.wcu.edu/hunter-library/find/special-and-digital-collections.aspx
+organization-link: "https://www.wcu.edu/engage/mountain-heritage-center/index.aspx and https://www.wcu.edu/hunter-library/find/special-and-digital-collections.aspx"
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
