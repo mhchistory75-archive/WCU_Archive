@@ -34,7 +34,7 @@ author: "Amy Archambault, University History Archival Technican <br> and Remy Co
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtQyYj_ljJy_G-_VdLofFQsl0VUC13Sw-lkr5OASjG6baxIyoLb1Epo1V9kJ7VzCCoBFnuGMkV3yax/pub?output=csv
+metadata: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtQyYj_ljJy_G-_VdLofFQsl0VUC13Sw-lkr5OASjG6baxIyoLb1Epo1V9kJ7VzCCoBFnuGMkV3yax/pub?gid=475056196&single=true&output=csv
 
 ##########
 # Site/Organization Branding 
