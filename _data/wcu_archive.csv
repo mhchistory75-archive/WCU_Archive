@@ -1,8 +1,8 @@
 objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
 HLUA1644,WCUbanner.jpeg,,View of Cullowhee Valley,stillimage,"This is a view of the Cullowhee Valley that Western Carolina University would eventually fill with its buildings. Note the St. David's Episcopal Church steeple across the valley that is today filled with the Ramsay Activity Center, WCU Football stadium, and the Fine and Performing Arts building.",unknown,,,,,College campuses -- North Carolina -- Cullowhee; Views;,,,,,Western Carolina University - Southern Appalachian Digital Collection,Special Collections - Hunter Library,https://southernappalachiandigitalcollections.org/browse/search/campus-ca-1889-1920s-34422/search/ac-collection:western-carolina-university-making-memories--ewao-all:campus/page/2,,,Copyright of Western Carolina University Hunter Library,,Image;StillImage,eng,
-Sample rolw,Delete before uploading,,Good News,audio/mp3,"Radio program corresponding with transcript of Radio Psychiana - Series for Dr. Frank B. Robinson No. 3. Episode begins proclaiming the growth of Pyschiana and then takes listeners to Robinson's home in Moscow, Idaho, describing its appearance. A dialogue begins between a 'guide' and Robinson about miracles, healing, the God-Law, the mail Robinson receives, and the 'Life Impulse' or 'motivating spirit' that allows people to think and live with God.",The Izzard Company,,1947,yes,radio program,God-Law; Life Spirit; Mircales; Healing; Sudent Letters;Testimonials,"Springfield, IL",39.770372,-89.639463,Good News,"University of Idaho Library Digital Initiatives, https://www.lib.uidaho.edu/digital/","MG 101, Frank Bruce Robinson. Papers, 1929-1951, University of Idaho Library Special Collections and Archives",https://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana,"MG-101, Box 5, Tapes",good_news_06,"Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction permissions granted by University of Idaho Library Special Collections and Archives Department. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",https://rightsstatements.org/vocab/InC-EDU/1.0/,Sound,eng,https://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana
+,,,,,,,,,,,,,,,,,,,,,,,,,
 wa0001,KillPsych05695.jpg,,First Book of Psychology,image/jpeg,Signed by Jack Wakely,Psychology,,1910,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
-wa0002,KillPsych05698.jpg,,"Photo of Psychology Conference, Clark University",image/jpeg,,,,,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
+wa0002,KillPsych05698.jpg,,"Photo of Psychology Conference, Clark University",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
 wa0003,KillPsych05700.jpg,,"""Gifted Children: Their Nature and Nurture"" by Leta S. Hollingworth, PHD",image/jpeg,Signed but signature is difficult to read,,,1927,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
 wa0004,KillPsych05702.jpg,,"Gifted Children Test board with images of morning start, breakfast, walking to school, and helping a person",image/jpeg,"Cloth backing
 Judge Bake Foundation, Boston
@@ -11,70 +11,78 @@ C.H. Stoelting Co., Chicago, Ill., USA
 Made in USA",,,1918,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
 wa0005,KillPsych05697.jpg,,Gifted Children's Test Pieces,image/jpeg,"Variety of pieces (53 currently in set), numbers on back show which pieces are currently missing
 Probably same date as board, 1918 but no marks; ""C.H.Stoelting Co <S> Chicago Ill"" stamped into inside lid; at base of box, number ""368"" is stamped into top",,,n.d,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
-wa0006,KillPsych05698.jpg,,"Gifted Children Test board with images of afternoon, school and evening activities",image/jpeg,"Not all pieces are in place, stamped signature of Marguerite Davis in lower right hand corner, cloth backing",,,,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0006,KillPsych05698.jpg,,"Gifted Children Test board with images of afternoon, school and evening activities",image/jpeg,"Not all pieces are in place, stamped signature of Marguerite Davis in lower right hand corner, cloth backing",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
 wa0007,KillPsych05699.jpg,,ESP Cards for testing Extra Sensory Perception; deck of cards,image/jpeg,"25 cards total
 Copyright by J. B. Rhine;
 For Testing Extra Sensory Perception
 Developed in Parapsychology Laboratory
-At Duke University (writing on front part of card deck)",,,,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+At Duke University (writing on front part of card deck)",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
 wa0008,KillPsych05700.jpg,,"""The Psychology Principles of Education: A Study in the Science of Education""",image/jpeg,"Signature of student and possibly denoting instructor, ""Dr. Grauberey?""; book belonged to Gurney Chambers; notes on inside of book leaf, possibly owned orig. by M. Stauley Hall?",,,1910,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
-,,,Signed photograph of B.F. Skinner,image/jpeg,Writing is on back of photo,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
-,,,Behaviorism machine,image/jpeg,"Manufacutred by Ralph Gerbrandts Co. 
+wa0009,KillPsych05712.jpg,,Signed photograph of B.F. Skinner,image/jpeg,Writing is on back of photo,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
+wa0010,KillPysch05715.jpg,,Behaviorism machine,image/jpeg,"Manufacutred by Ralph Gerbrandts Co. 
 8 Beck Road
 Arlington, Massachusetts
-Model 3, Serial 6014",,,,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
-psychiana065,,,,,,,,,,,,,,,,,,,,,,,,,
-psychiana066,,,,,,,,,,,,,,,,,,,,,,,,,
-psychiana067,,,,,,,,,,,,,,,,,,,,,,,,,
+Model 3, Serial 6014",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0011,KillPsych05718.jpg,,1234 Fax by Dr. Geo W. Crane,image/jpeg,"The Hopkins Syndicate Inc.
+Chicago Illinois
+Patent Pending Made in USA",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0012,KillPsych05726.jpg,,Weighted cubes and box,image/jpeg," Black cubes, set of 5 that are slightly weighted. Box has the following writing on it:
+Cat. No. 1903
+1 set of Weighted Cubes
+C.H. Stoelting Co.
+Manufacturers-Publishers-Importers-Exporters
+Psychological and Physiological
+Apparatus and Supplies
+424 N. Homan Ave Chicago, Ill., USA",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0013,KillPsych05727.jpg,,Memorandum of tentative agenda for parent's meeting,image/jpeg,Letter/invitation from Dr. Bixler to Dr. Killian on Summer Demostration Schoo,,,5/20/1965,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0014,KillPsych05728.jpg,,Special recognition of Dr. Cecil W. Mann,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0015,KillPsych05729.jpg,,"Photocopy of image of ""Participants in the Conference on Graduate Education in Clicncal Psychology, Boulder Colorado, August-September, 1949",image/jpeg,"Orig. image from Archives of the History of American Psychology, University of Akron; this is just a copy",,,1949,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
+wa0016,KillPsych05730.jpg,,Photo of Dr. Cecil W. Mann,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
+wa0017,KillPsych05733.jpg,,Cubes with various markings,image/jpeg,Dice sit in an oblong plastic container in a wooden rest,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0018,KillPsych05734.jpg,,Letter from Edwin G. Boring to Dr. Cecil Mann,image/jpeg,Signed by Dr. Boring; Mann added details of Dr. Boring under letter,,,10/23/1966,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0019,KillPsych05735.jpg,,Puzzle of farm scene,image/jpeg,"Pictures two horses with chickens and possbly a lamb; homes and pasture in background; Cloth backing
+Same company as other Gifted Children Boards - Stoelting; No. 27153; Puzzle is worn and scratched in multiple places, but esp. where puzzle pieces would be inserted and removed",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0020,KillPsych05736.jpg,," ""Physiological Psychology"" by W. McDougal",image/jpeg,Donated by Dr. Cecil W. Mann,,,1924,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0021,KillPsych05740.jpg,,"""An Introduction to Experimental Psychology"" by C.S. Meyers",image/jpeg,Donated by Dr. Cecil W. Mann,,,1914,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0022,KillPsych05742.jpg,,"""Gifted Children: A Special Class Conducted in the Summer of 1958""",image/jpeg,"Bulletin issued by WCU, editor, Maurice B. Morrill, Editor; information about first gifted children in Summer Demonstration School program
+This book is showing signs of mold and should be remediated",,,1958-1959,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0023,KillPsych05744.jpg,,"""Objective Tests in Fiji"" by Cecil W. Mann, M.A., Teacher's College, Sydney",image/jpeg,This book is showing signs of mold and should be remediated,,,1937,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0024,KillPsych05746.jpg,,"""American Pyschological Association"" Yearbook 1939",image/jpeg,"Killian is listed as participant, as well as Cecil Mann. Mann was not yet employed at WCU.",,,1939,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0025,KillPsych05748.jpg,,"""The New England Primer""",image/jpeg,"Back cover of book is torn and needs to be repaired
+Primer but no other information, date or association with department",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0026,KillPsych05750.jpg,,"""The Journal of Abnormal and Social Psychology""",image/jpeg,Psychology journal but no WCU faculty are authors or editors in this edition,,,10/12/1931,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0027,KillPsych05751.jpg,,"""The New England Primer""",image/jpeg,"Similar to other copybut in better condition, no connection to how it was ussed in the department",,,n.d,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Text,eng,
+wa0028,,,Curiosity Drawer Cabinet,image/jpeg,"Set of 18 drawers with trinkets inside of each drawer
+No information about this case or how it was used; Most likely belonging to Bruce Henderson",,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0029,,,Small pin from American Board of Professional Psychology; 1947-50 Years -1997,image/jpeg,No specific date or who it was awarded to,,,,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0030,,,Muller-Lyre Board #1,image/jpeg,Two separate panels in wood with black laquer finish and white arrows and lines painted on them; pieces move to extend the lines and arrows,,,1952,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0031,,,Muller-Lyre Board #2,image/jpeg,,,,1952,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0032,,,Ferguson Foam Boards,image/jpeg,Set of 3 wooden boards with various shapes; boards are similar to a puzzle and some pieces are intentionally removed,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0033,,,"Columbia Mental Maturity Scale, WCU Guidance and Testing Center",image/jpeg,Two metal cases with blue and white cards inside; cards have various pictures on them in line art form; used for intelligence testing in children used to est. intellectual ability in the mental age range from 3-12; does not require motor skills so suited for children with serious motor or verbal impairment ,,,1954,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0034,,,Box of various sized blocks,image/jpeg,"Blocks in orange, blue, green, yellow and white with writing on each block; items are inside a green box with the following on the lid: ""Contents Cat. No. 36118 Concept Formation Test, C.H. Stoelting Company",,,n.d,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0035,,,Stencil Design Test - I,image/jpeg,"Box of multi colored cards with various shapes on them. 21 cards with shapes and then 18 stencil cards in solid colors (red, blue, yellow, green, white and black)",,,1945,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0036,,,Minnesota Mechanical Assembly Test,image/jpeg,"Two black boxes with various items inside
+Boxes are scraped and scratched; one box is taped but it doesn't appear to be broken or needing the tape",,,1930,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0037,,,Picture Identification; wooden setup with notches and alternating orange triangles with small blue dots and green squares with small blue dots,image/jpeg,,,,1941,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0038,,,Picture Identification with various cubes and images on them on each side; two sets but not all of the wooden cubes have images on them ,image/jpeg,,,,1941,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0039,,,"Puzzle blocks - Various blocks painted red, yellow and blue with one side that is natural",image/jpeg,,,,1941,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0040,,,Rotter Board of Aspiration - Long wooden beam with 1-10 -1 marked down the top of the instrument. Sits on 4 metal feet and has a metal ball sitting in the middle of the channel between the numbers; a long wooden rod rests in the channel as well and there is a 2.5 inch space between the channel and a piece of plexiglass at the end of the structure,image/jpeg,,,,1947,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0041,,,"Case with various books, notebooks, cards and structures inside; small box with car, iron, shoe on top; Termian/Merrill book and Stanford-Binet Intelligence testing book in pocket",image/jpeg,,,,1937,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0042,,,Ferguson Form Boards - set of 3 wooden boards with various shapes; Boards are older with light honey color and water stained,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0043,,,Hunter MFG co. Eletrical Instrument; Model 115 Timer Series D; Grey and Green rectangular box with 2 radial components marking 0-5 and dials to change to any of those numbers; two swches - 1 power and 1 interval to turn off or on,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0044,,,"Light Discr. Appar. #1; two dials - both Light discrimination dial measuring 0-300 ; 1 switch in the center between the dials; overall case is brown wood, rectangular box with plug in the front; Lafayette Insturment Co. Lafayette, Indiana",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0045,,,"Illusionator; black and white rectangular box; 1 dial with speed control and switch used to move ""forward"" ""off"" or ""reverse""; two nails encased in plastic coming off of both sides of the box with the right side longer than the left side",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0046,,,"Brown and black cube ""millisecond timer""; Timer dial in the front measuring 360 millicseonds; Made MeyLan New York 18, N.Y.",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0047,,,Black oblong box with circular discs of varying color in side. Colors have number or letter on reverse side,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0048,,,"Picture of various famous male psychologists/psychiatrists (Freud, Pavlov, Tolman, Hull and Ringhaus",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,Image;StillImage,eng,
+wa0049,,,Morse code practice key,image/jpeg,,,,1947,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0050,,,"A-615 B Shocker; Shock machine with AC Volt meter measuring to 0-1000; Two dials - Series K x10 and x100; silver rectangular box made by Lafayette Instrument Co.; red and black dials - start and shock and large black dial with ""Shock Voltage""",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0051,,,Maico Medical Acoustic Insturment Co. Hearing loss instrument; brown rectangular box with headset on the left side for testing hearing (missing headphone on the right side),image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0052,,,Pencil maze; silver and wood maze,image/jpeg,,,,1948,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0053,,,"Memory Drum #4 (label) and red label with ""No. 1"" on it; Silver rectangular box with open cylinder and plug in front; switch on left side; Made by Lafayette Instrument",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0054,,,Resonance Tuning fork,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0055,,,A Lateral Dominance Test discs in wooden box; discs have black patterns on them,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0056,,,"Welch ""Everything for the School and the Laboratory"" product; Large circular disc on cast iron frame with shield to the left side of disc; interior measurement disc with numbers 0-90 in quarters
+ 
+ Hartle Optical Disc",image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
+wa0057,,,Taylor Huskins conference room in Killian; Portrait and plaque,image/jpeg,,,,n.d.,,,Killian; Psychology;,"Cullowhee, NC",35.31169276,-83.18168717,,,Psychology,,,,,,PhysicalObject,eng,
