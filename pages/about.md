@@ -14,14 +14,24 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The items on this website are a few of the smaller, yet important collections that were inventoried through the University History Project in 2025. While not comprehensive, it is hoped that this documentation helps to capture and record various collecting entities on campus in the absense of a formal Western Carolina University Archives.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Collecting entities include the following (not all are documented visually on this site):
+•	Athletics
+•	Belcher College of Fine and performing Arts – Former Dean George Brown’s Collection of student art
+•	English
+o	Honors College
+o	Literary Festival posters (most are signed by authors before becoming more popular)
+•	Facilities
+•	Highlands Biological Station – Library and Archive
+•	Herbarium
+•	Pride of the Mountains Marching Band Archives
+•	Psychology
+•	Stage and Screen
+•	Steam Plant
+•	University Center
+•	WWCU Radio Station
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
