@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 The items on this website are a few of the smaller, yet important collections that were inventoried through the University History Project in 2025. While not comprehensive, it is hoped that this documentation helps to capture and record various collecting entities on campus in the absense of a formal Western Carolina University Archives.
@@ -31,7 +27,3 @@ o	Literary Festival posters (most are signed by authors before becoming more pop
 •	Steam Plant
 •	University Center
 •	WWCU Radio Station
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-
